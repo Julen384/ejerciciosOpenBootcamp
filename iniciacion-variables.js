@@ -17,12 +17,4 @@ console.log(b);
 b = 5;
 console.log(b);
 
-
-
-
-
 var variable = "Hola soy una variable VAR";
-
-///////////////////////////
-
-typeof 1
